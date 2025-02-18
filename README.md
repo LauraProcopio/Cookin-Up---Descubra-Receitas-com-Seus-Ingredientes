@@ -26,6 +26,7 @@ Para criar esta aplicação, utilizamos as seguintes tecnologias:
 ## 📷 Preview  
 
 Caso queira ver como ficou a página publicada, acesse: https://cookin-up-descubra-receitas-com-seus-ingredientes.vercel.app/
+
 1️⃣ **Clone este repositório:**  
    ```bash
    git clone https://github.com/seu-usuario/cookin-up.git
