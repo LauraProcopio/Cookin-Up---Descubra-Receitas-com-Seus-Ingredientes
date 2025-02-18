@@ -1,40 +1,28 @@
-# cookin-up
+# 🍽️ Cookin' Up - Encontre Receitas com Ingredientes que Você Tem em Casa  
 
-This template should help get you started developing with Vue 3 in Vite.
+**Cookin' Up** é um projeto desenvolvido com **Vue.js 3 e Vite**, focado em ajudar usuários a descobrirem receitas utilizando os ingredientes que possuem disponíveis. A proposta é oferecer uma experiência intuitiva e interativa, tornando a cozinha mais acessível e divertida.  
 
-## Recommended IDE Setup
+## 🎯 Objetivo do Projeto  
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Muitas vezes temos ingredientes na cozinha, mas não sabemos quais receitas podemos preparar com eles. O **Cookin' Up** resolve esse problema, permitindo que os usuários selecionem os ingredientes disponíveis e recebam sugestões de receitas que podem ser feitas sem precisar sair para comprar mais itens.  
 
-## Type Support for `.vue` Imports in TS
+Este projeto foi desenvolvido como parte do curso de **Vue.js 3 na Alura**, aplicando conceitos fundamentais do framework e boas práticas de desenvolvimento front-end.  
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+---
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+## 🚀 Tecnologias Utilizadas  
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+Para criar esta aplicação, utilizamos as seguintes tecnologias:  
 
-## Customize configuration
+- **Vue.js 3** → Framework progressivo para criação de interfaces web.  
+- **Vite** → Ferramenta de build rápida para projetos Vue.  
+- **HTML5 e CSS3** → Estruturação e estilização das páginas.  
+- **JavaScript (ES6+)** → Lógica de funcionamento do projeto.  
+- **Tailwind CSS** → Estilização otimizada e responsiva.  
+- **jQuery** (se aplicável) → Manipulação do DOM e interações dinâmicas.  
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+---
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+1️⃣ **Clone este repositório:**  
+   ```bash
+   git clone https://github.com/seu-usuario/cookin-up.git
